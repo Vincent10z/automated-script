@@ -1,0 +1,21 @@
+{
+  "name": "puppeteer-script",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vincent Smith",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mocha": "^10.7.0",
+    "node": "^20.16.0",
+    "puppeteer": "^22.14.0",
+    "selenium-webdriver": "^4.23.0"
+  },
+  "devDependencies": {
+    "chai": "^4.5.0"
+  }
+}
